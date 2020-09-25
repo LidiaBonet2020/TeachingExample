@@ -3,3 +3,6 @@ pandas
 sklearn
 matplotlib
 xgboost
+imbalanced-learn
+seaborn
+pytest
